@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "bfb79a95-5fb3-4b91-8db1-1c70517a1aed", "counter": 11, "stdout": "\u001b[0;35mdeprecated and it will be replaced by 60. This feature will be removed from \u001b[0m", "start_line": 10, "end_line": 11, "runner_ident": "bc74486c-2fe0-45e9-90c0-64195923522e", "created": "2024-02-08T07:52:34.224979"}

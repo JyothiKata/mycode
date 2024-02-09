@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "dbfa8ee8-fc31-4ab6-8d37-c2444cbe5097", "counter": 10, "stdout": "\u001b[0;35m[DEPRECATION WARNING]: The default value 10 for parameter param1 is being \u001b[0m", "start_line": 9, "end_line": 10, "runner_ident": "bc74486c-2fe0-45e9-90c0-64195923522e", "created": "2024-02-08T07:52:34.224979"}
